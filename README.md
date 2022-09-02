@@ -1,6 +1,3 @@
-Nothing here YET!
-
-
 👋 Hi, I’m @viraldL
 
 I’m currently learning Web Development! :
@@ -11,9 +8,9 @@ I’m currently learning Web Development! :
 - JS Frameworks ❌
 - "Backend" ❌
 
-My socials! :
-Twitter - https://twitter.com/viraldl
-YouTube - https://www.youtube.com/channel/UC4M723zhqrR1Mfy0A0ckqyA
+My socials! :  
+[Twitter](https://twitter.com/viraldl)  
+[YouTube](https://www.youtube.com/channel/UC4M723zhqrR1Mfy0A0ckqyA)
 
 (I will improve this README later!)
 <!---
