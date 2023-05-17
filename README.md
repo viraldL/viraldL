@@ -3,9 +3,9 @@
 I’m currently learning Web Development! :
 - HTML ✓
 - CSS ✓
-- JavaScript 🕑 / ✓
-- CSS Frameworks 🕑
-- JS Frameworks ❌
+- SASS ✓
+- JavaScript ✓
+- React ❌
 - "Backend" ❌
 
 My socials! :  
