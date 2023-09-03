@@ -6,7 +6,7 @@ I’m currently learning Web Development! :
 - SASS ✓
 - JavaScript ✓
 - React ❌
-- "Backend" ❌
+- back-end ❌
 
 My socials! :  
 [Twitter](https://twitter.com/viraldl)  
